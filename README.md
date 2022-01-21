@@ -7,3 +7,7 @@
 사람이 되는 그날까지 마조리카는 힘낼꺼에오!
 
 https://taehee.oopy.io
+
+
+소소한 습관
+https://github.com/t0dd-kr/small-habit-frontend
